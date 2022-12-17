@@ -1,0 +1,212 @@
+[
+ {
+   "Card Name": "Elder Prime",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Polaris",
+   "Card Class": "Brute",
+   "Health": 180,
+   "Punch": 70,
+   "Kick": 80,
+   "Slam": 70
+ },
+ {
+   "Card Name": "Captain Commando",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Polaris",
+   "Card Class": "Brute",
+   "Health": 180,
+   "Punch": 70,
+   "Kick": 80,
+   "Slam": 70
+ },
+ {
+   "Card Name": "Shambo",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Vega",
+   "Card Class": "Brute",
+   "Health": 180,
+   "Punch": 70,
+   "Kick": 70,
+   "Slam": 80
+ },
+ {
+   "Card Name": "Goliath",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Vega",
+   "Card Class": "Brute",
+   "Health": 180,
+   "Punch": 80,
+   "Kick": 70,
+   "Slam": 70
+ },
+ {
+   "Card Name": "Jaw Lock",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Vega",
+   "Card Class": "Brute",
+   "Health": 180,
+   "Punch": 70,
+   "Kick": 70,
+   "Slam": 80
+ },
+ {
+   "Card Name": "Astro ",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Atlas",
+   "Card Class": "Brute",
+   "Health": 180,
+   "Punch": 70,
+   "Kick": 70,
+   "Slam": 80
+ },
+ {
+   "Card Name": "Clueless",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "No Planet",
+   "Card Class": "Gladiator",
+   "Health": 130,
+   "Punch": 120,
+   "Kick": 120,
+   "Slam": 130
+ },
+ {
+   "Card Name": "Rampage",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Polaris",
+   "Card Class": "Gladiator",
+   "Health": 130,
+   "Punch": 120,
+   "Kick": 130,
+   "Slam": 120
+ },
+ {
+   "Card Name": "Zuki",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Vega",
+   "Card Class": "Gladiator",
+   "Health": 130,
+   "Punch": 130,
+   "Kick": 120,
+   "Slam": 120
+ },
+ {
+   "Card Name": "Blink",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Polaris",
+   "Card Class": "Gladiator",
+   "Health": 130,
+   "Punch": 120,
+   "Kick": 130,
+   "Slam": 120
+ },
+ {
+   "Card Name": "Jade Bandit",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "No Planet",
+   "Card Class": "Gladiator",
+   "Health": 130,
+   "Punch": 120,
+   "Kick": 120,
+   "Slam": 130
+ },
+ {
+   "Card Name": "Twinkle Dust",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Atlas",
+   "Card Class": "Gladiator",
+   "Health": 130,
+   "Punch": 130,
+   "Kick": 120,
+   "Slam": 120
+ },
+ {
+   "Card Name": "Queen Athena",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Polaris",
+   "Card Class": "Technician",
+   "Health": 130,
+   "Punch": 60,
+   "Kick": 50,
+   "Slam": 50
+ },
+ {
+   "Card Name": "Icarus",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Polaris",
+   "Card Class": "Technician",
+   "Health": 130,
+   "Punch": 60,
+   "Kick": 50,
+   "Slam": 50
+ },
+ {
+   "Card Name": "Jackpot",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Polaris",
+   "Card Class": "Technician",
+   "Health": 130,
+   "Punch": 60,
+   "Kick": 50,
+   "Slam": 50
+ },
+ {
+   "Card Name": "Harmony",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Vega",
+   "Card Class": "Technician",
+   "Health": 130,
+   "Punch": 50,
+   "Kick": 60,
+   "Slam": 50
+ },
+ {
+   "Card Name": "ZigZag",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Vega",
+   "Card Class": "Technician",
+   "Health": 130,
+   "Punch": 50,
+   "Kick": 60,
+   "Slam": 50
+ },
+ {
+   "Card Name": "Orbit",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Atlas",
+   "Card Class": "Technician",
+   "Health": 130,
+   "Punch": 50,
+   "Kick": 50,
+   "Slam": 60
+ },
+ {
+   "Card Name": "Doctor Wacky",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "Atlas",
+   "Card Class": "Technician",
+   "Health": 130,
+   "Punch": 50,
+   "Kick": 50,
+   "Slam": 60
+ },
+ {
+   "Card Name": "Femme Fatale",
+   "Card Set": "Day One/Base Set",
+   "Card Planet": "No Planet",
+   "Card Class": "Technician",
+   "Health": 130,
+   "Punch": 50,
+   "Kick": 60,
+   "Slam": 50
+ },
+ {
+   "Card Name": "Alpha Bot",
+   "Card Set": "Day One/Promo",
+   "Card Planet": "Earth",
+   "Card Class": "Brute",
+   "Health": 180,
+   "Punch": 80,
+   "Kick": 80,
+   "Slam": 80
+ }
+]
